@@ -1,2 +1,2 @@
-# banco de dados
- banco de dados adega
+# Banco de Dados
+ banco de dados do projeto Adega Klatt
